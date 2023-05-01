@@ -1,0 +1,111 @@
+[
+  {
+    "id": "637fbc1478026cb5d7fddfe8",
+
+    "name": "Samsung",
+    "location": "Mirpur,Dhaka",
+    "resalePrice": 40000,
+    "originalPrice": 55000,
+    "usedYear": "2 yrs",
+    "sellerName": "kamal",
+
+    "img": "https://i.ibb.co/wrqBC0P/s8.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfe8",
+
+    "name": "Nokia",
+    "location": "Adabor,Dhaka",
+    "resalePrice": 45000,
+    "originalPrice": 155000,
+    "usedYear": "1 month",
+    "sellerName": "Jamal",
+
+    "img": "https://i.ibb.co/Bs1JR2k/s9.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfe8",
+
+    "name": "Xiomi",
+    "location": "Mirpur 10,Dhaka",
+    "resalePrice": 70000,
+    "originalPrice": 100000,
+    "usedYear": "3 months",
+    "sellerName": "Rahim",
+
+    "img": "https://i.ibb.co/G2cpRN7/s10.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfe9",
+
+    "name": "Huawei",
+    "location": "JatraBari,Dhaka",
+    "resalePrice": 50000,
+    "originalPrice": 800000,
+    "usedYear": "1.5 months",
+    "sellerName": "Abul",
+
+    "img": "https://i.ibb.co/dLPWqYg/p10.jpg"
+  },
+
+  {
+    "id": "637fbc1478026cb5d7fddfe9",
+
+    "name": "Vivo",
+    "location": "JatraBari,Dhaka",
+    "resalePrice": 30000,
+    "originalPrice": 40000,
+    "usedYear": "2.5 months",
+    "sellerName": "Babul",
+
+    "img": "https://i.ibb.co/Tm8Z7VD/p10lite.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfe9",
+
+    "name": "Iphone",
+    "location": "JatraBari,Dhaka",
+    "resalePrice": 70000,
+    "originalPrice": 90000,
+    "usedYear": "8 months",
+    "sellerName": "Mr.kashem",
+
+    "img": "https://i.ibb.co/QPcR3vQ/p30.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfea",
+
+    "name": "Techno",
+    "location": "JatraBari,Dhaka",
+    "resalePrice": 70000,
+    "originalPrice": 90000,
+    "usedYear": "5 months",
+    "sellerName": "Shopon",
+
+    "img": "https://i.ibb.co/BjtjBnp/i8.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfea",
+
+    "name": "Realme",
+    "location": "JatraBari,Dhaka",
+    "resalePrice": 70000,
+    "originalPrice": 90000,
+    "usedYear": "4 months",
+    "sellerName": "Motin",
+
+    "img": "https://i.ibb.co/x5Pv1d8/i10.jpg"
+  },
+  {
+    "id": "637fbc1478026cb5d7fddfea",
+
+    "name": "Blackbery",
+    "location": "JatraBari,Dhaka",
+    "resalePrice": 70000,
+    "originalPrice": 90000,
+    "usedYear": "2 months",
+    "sellerName": "Hashem",
+
+    "img": "https://i.ibb.co/2tKyXzG/i12.jpg"
+  }
+]

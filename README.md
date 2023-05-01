@@ -1,1 +1,1 @@
-# oto-resale-server
+# oto-deals-resale-server

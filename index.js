@@ -13,8 +13,9 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json()); 
 
-
-const uri = "mongodb+srv://resell-products:gybujFoQet7Ylu8X@cluster0.w0dynz3.mongodb.net/?retryWrites=true&w=majority";
+// const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.lx750.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
+// const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+const uri = "mongodb+srv://resellproduct:WtuwLvwyHhzfagBm@cluster0.w0dynz3.mongodb.net/?retryWrites=true&w=majority";
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
   serverApi: {
@@ -42,7 +43,7 @@ function verifyToken(req, res, next) {
 }
 async function run() { 
     try {
-      await client.connect();
+      // await client.connect();
       const database = client.db("productsresellsite");
          const categoriesCollection = database.collection("productCategories");
          const advertisementCollection = database.collection("advertisementCollection");
