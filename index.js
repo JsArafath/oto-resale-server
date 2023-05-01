@@ -42,7 +42,7 @@ function verifyToken(req, res, next) {
 }
 async function run() { 
     try {
-      // await client.connect();
+      await client.connect();
       const database = client.db("productsresellsite");
          const categoriesCollection = database.collection("productCategories");
          const advertisementCollection = database.collection("advertisementCollection");
